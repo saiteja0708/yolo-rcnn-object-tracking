@@ -39,11 +39,13 @@ YOLOv5 outperformed R-CNN in both accuracy and training efficiency, achieving 11
 
 ---
 
+
 ## 👤 My Contribution
 
-I implemented the R-CNN training pipeline using PyTorch and Torchvision, handled the model benchmarking and comparative analysis against YOLOv5, and produced the quantitative results documented in this repository.
-
-*(Edit this section to reflect what you personally built)*
+Independently implemented the full R-CNN pipeline from scratch using PyTorch and Torchvision —
+including model architecture setup (ResNet-18 backbone), training loop, validation, and mAP 
+evaluation. Collaborated on the YOLOv5 benchmarking and led the comparative performance analysis 
+between both architectures.
 
 ---
 
